@@ -1,0 +1,17 @@
+{
+  "name": "com.soprachevak.apple-color-palette",
+  "version": "1.0.0",
+  "displayName": "Apple Color Palette",
+  "description": "Add colors (scripts, material, presets) from apple guidelines",
+  "keywords": [
+    "UI",
+    "Color",
+    "Apple"
+  ],
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@mail.ru",
+    "url": "https://soprachev.com"
+  },
+  "unity": "2019.4"
+}
