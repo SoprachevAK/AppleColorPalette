@@ -1,8 +1,8 @@
 {
   "name": "com.soprachevak.apple-color-palette",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "displayName": "Apple Color Palette",
-  "description": "Add colors (scripts, material, presets) from apple guidelines",
+  "description": "Add colors scripts and presets from apple guidelines",
   "keywords": [
     "UI",
     "Color",

@@ -43,7 +43,6 @@ Add colors (scripts, material, presets) from apple guidelines
   ```csharp 
   Color color = AppleColorPalette.AColor.<<color>>;
   ```
-* From material: Contains Opaque and Transparent material with Standard shader and enabled GPU Instancing   
 * From preset: Choose Apple Color Pallet in any unity's color picker 
 
 <!-- DOC-END -->
